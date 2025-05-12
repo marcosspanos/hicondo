@@ -32,7 +32,8 @@ function FrequentlyAskedQuestions() {
       <h1>Frequently Asked Questions</h1>
       <section>
         <h2>Legalities</h2>
-          <ul>the contract
+          <ul>
+            <b> The contract</b>
             <li>Myth.The rental contract is bulletproof, and we are bound by all of its terms</li>
             <li>Fact. Any part of the rental contract that violates Dutch law is invalid</li>
             <li>There are several parts of the contract that have already been established as illegal: The amount of time the landlord has to return the security deposit. The termination notice period and in many cases the security deposit to name a few</li>
@@ -55,7 +56,7 @@ function FrequentlyAskedQuestions() {
           
       </section>
       <section>
-        <h2>Who is</h2>
+        <h2>Who is HuurCommissie</h2>
         <ul>
           <li>HiCo Bewonerscommissie</li>
           <li>We are a group of HiCondo tenants working with Stichting !Woon and other organisations to educate tenants about their rights and to help make HiCondo a better place to live</li>
@@ -65,14 +66,14 @@ function FrequentlyAskedQuestions() {
 
         </ul>
         <ul>
-          What is the Gemeente
+          <b>What is the Gemeente</b>
           <li>The gementee is the municipal govermnent. Their good Landlord Team investigates tenant complaints regarding violations of the Good Landlord Act. They can investigate and fine landlods for failing or refusing to address maintenace issues, harrasing/intimidating tenants and other violations</li>        
         </ul>
         </section>
         <section>
         <h2>Service costs and security deposits</h2>
           <ul>
-            I think i was overchagrged for service costs
+            <b>I think I was overcharged for service costs </b>
             <li>Join our service costs group case</li>
             <li>The landlord withheld part of my security deposit for future service cost settlements or another illegal reason. What can I do</li>
               <li>Join our security deposit grotup case</li>

@@ -1,5 +1,5 @@
-# 🌈 VU Pride Website
-The source for the VU Pride website. 
+# HiCondo Website 
+this is a website focused on the tenant committee for HiCondo and frequently asked questions about the contract
 
 ## ⚠️ Disclaimer
 WIP

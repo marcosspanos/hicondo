@@ -1,8 +1,8 @@
 {
-  "name": "pride-web",
+  "name": "hicondo",
   "version": "1.0.0",
   "private": false,
-  "homepage": "https://vu-devs.github.io/pride-web",
+  "homepage": "https://vu-devs.github.io/hicondo",
   "dependencies": {
     "gh-pages": "^6.3.0",
     "react": "^18.0.0",

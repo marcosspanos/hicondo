@@ -46,9 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Load events from localStorage or use default
     const defaultEvents = {
-        "2025-06-10": ["Committee Meeting at 18:00", "Maintenance Check"],
-        "2025-06-15": ["Rent Due"],
-        "2025-06-21": ["Community BBQ"],
+        "2025-06-15": ["Queer game night at 16:00"],
     };
     const events = JSON.parse(localStorage.getItem('calendarEvents')) || defaultEvents;
     let selectedDate = null;
